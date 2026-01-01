@@ -1,4 +1,4 @@
-# SILS (Smart Identification Logging System) v1.0
+# SILS (Smart Identification Logging System) v1.1
 
 SILS adalah sistem logging identifikasi berbasis ESP32 menggunakan teknologi RFID. Perangkat ini berfungsi untuk melakukan pemindaian kartu RFID dan mengirimkan data UID ke server pusat melalui API untuk keperluan absensi atau identifikasi siswa secara real-time.
 
